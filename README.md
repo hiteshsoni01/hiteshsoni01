@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiteshsoni01, Software engineer
-- 👀 I’m interested in Java, Kotkin, Spring,SQL
-- 🌱 I’m currently learning Spring Frameowrk
+- 👀 I’m interested in Java, Kotlin, Spring Boot,SQL, RestAPIs
+- 🌱 I’m currently learning new tech stack
 - 📫 How to reach me ...
       hitesh.soni3444@gmail.com
 
