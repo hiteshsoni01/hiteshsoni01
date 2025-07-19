@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hiteshsoni01, Software engineer
-- 👀 I’m interested in Java, Kotlin, Spring Boot,SQL, RestAPIs
+- 👋 Hi, My name is Hitesh Soni, working in programmers.io as a Senior Full Stack Developer.
+- 👀 I’m interested in Java, Kotlin, Spring Boot,SQL, RestAPIs, Angular16+
 - 🌱 I’m currently learning new tech stack
 - 📫 How to reach me ...
       hitesh.soni3444@gmail.com
